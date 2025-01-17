@@ -1,0 +1,1 @@
+This repository demonstrates a common Objective-C bug related to runtime errors arising from using 'id' as a return type in methods and issues related to subclassing and method overriding. The 'Bug.m' file showcases the problematic code. The 'BugSolution.m' offers a resolution using proper type checking and casting to avoid unexpected behaviors at runtime.
